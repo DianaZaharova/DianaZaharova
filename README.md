@@ -59,4 +59,4 @@ HTML         21 mins         ▓░░░░░░░░░░░░░░░░
 [telegram]: https://t.me/DianaZaharova
 [siteLayout]: https://dianazaharova.github.io/app.creation/
 [jsProject]: https://dianazaharova.github.io/FindBug/
-[React]: https://ui-kit-joa9wo19d.vercel.app/
+[React]: https://nervous-cray-7b1e0d.netlify.app
