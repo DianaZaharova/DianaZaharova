@@ -4,19 +4,11 @@
 - 🧠 Я активно изучаю разработку интерфейсов, трачу все свое время на это!
 - 🌍 Хочу учавствовать в крутых и амбициозных проектах
 - 👩 Люблю работать в команде
-- 💪 Oгромное разрабатывать в сфере фронтенд разработки
-- 👨‍💻 Мои интересы: технологии, путешествия, фехтование, фильмы, сериалы
+- 💪 Oгромное желание развиваться в сфере фронтенд разработки
+- 👨‍💻 Мои интересы: технологии, путешествия, фильмы, сериалы
 
-## Мои последние проекты:
-- 📝 [TODO приложение](https://ui-kit-joa9wo19d.vercel.app/), Ссылка на код: [GitHub](https://github.com/WebHeroSchool/ui-kit)
-  * **React** 
-- 🃏 [Guess the Bug card game](https://dianazaharova.github.io/FindBug/), Ссылка на код: [GitHub](https://github.com/DianaZaharova/FindBug)
-  -  **JavaScript** ES6 syntax
-- 💻 [Adaptive app.creation website (studying project)](https://dianazaharova.github.io/app.creation/), Ссылка на код: [GitHub](https://github.com/DianaZaharova/app.creation)
-  - **HTML** and **CSS**
-- 🌱  [Adaptive World of travel website](https://dianazaharova.github.io/World-of-travel/), Ссылка на код: [GitHub](https://github.com/DianaZaharova/World-of-travel)
-  - **HTML** and **CSS**
-  
+## Мое портфолио:
+ [Ссылка на портфолио](https://dianazaharova.github.io/portfolio/)
 
 ## Сколько времени я кодила на прошлой неделе 👩‍💻
 <!--START_SECTION:waka-->
@@ -59,6 +51,3 @@ LESS         1 hr 14 mins    █▒░░░░░░░░░░░░░░░
 [profile]: https://github.com/DianaZaharova
 [linkedin]: https://www.linkedin.com/in/diana-zaharova-a78853200/
 [telegram]: https://t.me/DianaZaharova
-[siteLayout]: https://dianazaharova.github.io/app.creation/
-[jsProject]: https://dianazaharova.github.io/FindBug/
-[React]: https://nervous-cray-7b1e0d.netlify.app
