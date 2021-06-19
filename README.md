@@ -30,6 +30,8 @@ JSON         19 mins         ▒░░░░░░░░░░░░░░░░
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Scss" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />
 <img align="left" alt="Pug" width="26px" src="https://cdn.worldvectorlogo.com/logos/pug.svg" />
+<img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />
+<img align="left" alt="Vue" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" />
 <br />
 <br />
 
