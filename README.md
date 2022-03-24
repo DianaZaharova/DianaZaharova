@@ -14,7 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+SCSS             1 hr 18 mins    █████████████░░░░░░░░░░░░   51.89 %
+Blade Template   1 hr 6 mins     ███████████░░░░░░░░░░░░░░   43.54 %
+HTML             4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+CSS              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
