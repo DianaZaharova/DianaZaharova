@@ -14,8 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       17 mins         ███████████████░░░░░░░░░░   60.27 %
-Blade Template   11 mins         ██████████░░░░░░░░░░░░░░░   39.73 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
