@@ -14,9 +14,8 @@ Lenovo, Yamaha, AVON.
 
 ### Мои контакты:
 
-[<img align="left" alt="i_am_diana" width="22px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />][profile]
-[<img align="left" alt="i_am_diana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="i_am_diana | Instagram" width="22px" src="https://cdn1.iconfinder.com/data/icons/andriod-app-logo/32/icon_telegram-512.png" />][telegram]
+[LINKEDIN][linkedin]
+[TELEGRAM][telegram]
 
 <br />
 
@@ -25,6 +24,5 @@ Lenovo, Yamaha, AVON.
 
 
 
-[profile]: https://github.com/DianaZaharova
 [linkedin]: https://www.linkedin.com/in/dianazaharova
 [telegram]: https://t.me/DianaZaharova
