@@ -1,37 +1,14 @@
 # Привет! Меня зовут Диана 👋
-## Я начинающий Фронтенд-разработчик!
 
-- 🧠 Я активно изучаю разработку интерфейсов, трачу все свое время на это!
-- 🌍 Хочу учавствовать в крутых и амбициозных проектах
-- 👩 Люблю работать в команде
-- 💪 Oгромное желание развиваться в сфере фронтенд разработки
-- 👨‍💻 Мои интересы: технологии, путешествия, фильмы, сериалы
+Я занимаюсь frontend разработкой уже почти 3 года.
+За это время я получила огромное количество различного опыта, попала в
+душевное IT комьюнити и осознала что я действительно люблю то что делаю.
+Разрабатывала как внутренние сервисы, так и клиентскую часть для IKEA,
+Lenovo, Yamaha, AVON.
 
-## Мое портфолио:
- [Ссылка на портфолио](https://dianazaharova.github.io/portfolio/)
-
-## Сколько времени я кодила на прошлой неделе 👩‍💻
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-### Языки и технологии которые я использую:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Scss" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />
-<img align="left" alt="Pug" width="26px" src="https://cdn.worldvectorlogo.com/logos/pug.svg" />
-<img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />
-<img align="left" alt="Vue" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" />
-<br />
-<br />
+## Основной стек технологий:
+### TS/React/Next/Styled Components
+### JS/Vue/Nuxt/SCSS
 
 ---
 
@@ -49,5 +26,5 @@ No activity tracked
 
 
 [profile]: https://github.com/DianaZaharova
-[linkedin]: https://www.linkedin.com/in/diana-zaharova-a78853200/
+[linkedin]: https://www.linkedin.com/in/dianazaharova
 [telegram]: https://t.me/DianaZaharova
